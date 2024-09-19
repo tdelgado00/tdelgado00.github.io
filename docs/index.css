@@ -1,0 +1,28 @@
+
+
+a {
+    color: #455dc0 !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+}
+
+.link {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+ul.custom-list {
+    list-style-type: square; /* Choose between disc, circle, square, etc. */
+    padding-left: 20px;    /* Indent the list */
+    margin: 0;             /* Remove margin for cleaner layout */
+    font-size: 16px;       /* Adjust font size */
+    color: #121316;        /* Text color */
+}
+
+ul.custom-list li {
+    margin-bottom: 10px;   /* Space between list items */
+    line-height: 1.5;      /* Better readability */
+    padding-left: 5px;     /* Slight padding for list items */
+}
