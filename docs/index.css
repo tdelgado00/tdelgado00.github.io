@@ -5,12 +5,12 @@ a {
 }
 
 a:hover {
-    text-decoration: underline !important;
+    color: gray !important
 }
 
 .link {
     color: black !important;
-    text-decoration: none !important;
+    text-decoration: underline !important;
 }
 
 ul.custom-list {
